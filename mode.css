@@ -1,0 +1,110 @@
+.home{
+    background-color: azure;
+    padding: 0;
+    border-radius: 12px;
+    height: 2pc;
+    position: relative;
+    float: right;
+}
+.to{
+    padding: 0;
+    position: relative;
+    top: -9px;
+}
+.to:hover{
+    background-color: hotpink;
+}
+.v{
+    
+    height: 2pc;
+    border: solid  rgb(121, 170, 127) 1px;
+
+}
+.sd{
+    
+    height: 20pc;
+    position: relative;
+    top: 12px;
+}
+.ok{
+   
+    height: 27pc;
+    position: relative;
+    top: -2pc;
+}
+.get{
+    font-family: cursive;
+    text-align: center; 
+}
+.img{
+    height: 25px;
+    position: relative;
+    top: -50pc;
+   
+}
+.what{
+    height: 5pc;
+    position: relative;
+    right: -6pc;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+    color: honeydew;
+}
+
+.fbi{
+    height: 73px;
+    position: relative;
+    top: -5pc;
+    
+}
+
+.form{
+    position: relative;
+    top: -14pc;
+    right: -27pc;
+}
+.group{
+    padding: 1pc;
+    border: solid black 1px;
+    width: 90px;
+    border-radius: 8px;
+    position: relative;
+    top: -40px;
+}
+
+.ik{
+    height: 5pc;
+    position: relative;
+    right: -40pc;
+    top: -10pc;
+    
+}
+.email{
+    padding: 1pc;
+    border: solid black 1px;
+    height: 60px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+
+.h3{
+    position: relative;
+    bottom: -15pc;
+    text-align: center;
+    font-family: Georgia;
+    
+}
+.co{
+    padding: 1pc;
+    border: solid black 1px;
+    width: 200px;
+    border-radius: 8px;  
+}

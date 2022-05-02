@@ -1,0 +1,64 @@
+body{
+    background-color: lightgray;
+    position: relative;
+    right: -300px;
+    
+}
+.main{
+    background-color: gray;
+    width: 30pc;
+    height: 30pc;
+    border :solid black 1px;
+    
+}
+.h{
+    text-align: center;
+}
+.name{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -15px;
+    
+}
+.nam{
+    top: -25px;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+button{
+    padding: 0;
+    border :solid black 1px;
+    height: 2pc;
+    width: 4pc;
+    display: inline-block;
+    border-radius: 12px;
+    background-color: white;
+}
+.services{
+    position: relative;
+    right: -10pc;
+    top: -10px;
+}
+.kk{
+    top: -10px;
+    position: relative;
+    color: black;
+    
+}
+
+
+a { text-decoration: none;
+   
+    text-decoration: none;
+
+}
+.eze{
+    height: 18pc;
+    position: relative;
+    right: -9pc;
+}
+a:hover{
+     color: hotpink;
+}
